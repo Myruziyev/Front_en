@@ -1,0 +1,59 @@
+h1 {
+  background-color: darkseagreen;
+  border-radius: 20px;
+  text-align: center;
+  border: 3px solid red;
+  color: blue;
+}
+em {
+  color: darkred;
+}
+.u {
+  color: darkgreen;
+}
+.h2 {
+  background-color: yellow;
+  color: darkgreen;
+  text-align: center;
+}
+img {
+  width: 715px;
+}
+iframe {
+  width: 1450px;
+}
+button {
+  background-color: lightseagreen;
+  border: none;
+  font-size: 30px;
+  color: white;
+}
+table {
+  border: 1px solid white ;
+  border-collapse: collapse;
+}
+td {
+  border: 1px solid black;
+  color: white;
+  width: 700px;
+  height: 50px;
+  text-align: center;
+}
+.th1 {
+  background-color: green;
+  color: white;
+  width: 200;
+}
+.th2 {
+  background-color: blue;
+  color: white;
+  width:700px ;
+}
+.td1 {
+  background-color: red;
+  width: 200px;
+}
+.td2 {
+width: 700px;
+    background-color: black;
+}
